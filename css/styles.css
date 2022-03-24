@@ -28,18 +28,16 @@ a
 .top-container{
   background-color: #fffde7;
   position: relative;
-  padding-top: 200px; padding-bottom: 200px; text-align: center;
-  margin-bottom: 100px;
+  padding-top: 12.5rem; padding-bottom: 12.5rem; text-align: center;
+  margin-bottom: 6.25rem;
 }
 .top-letter{
   position: absolute;
-  height: 150px;
-  width: 150px;
+  height: 9.375rem;
+  width: 9.375rem;
+  top: 3.125rem;
 }
-.top-letter{
-  top: 50px;
-  right: 400px;
-}
+
 .intro{
   width: 50%;
   margin: auto;
@@ -52,23 +50,23 @@ a
   width: 30%;
 }
 .faq{
-  margin: 100px;
+  margin: 6.25rem;
   background-color: #F6E7D8;
-  padding: 20px;
+  padding: 1.25rem;
 }
 .bottom-container
 {
     text-align: center;
-    padding: 50px 0 20px;  background-color: #139487;
+    padding: 3.125rem 0 1.25rem;  background-color: #139487;
 }
 .copyright
-{font-size: .75rem; padding: 20px 0;
+{font-size: .75rem; padding: 1.25rem 0;
 
     color: #eaf6f6;
 }
 .footer-link
 {
-    margin: 10px 20px; font-size: 1.5rem;
+    margin: 0.625rem 1.25rem; font-size: 1.5rem;
 }
 .footer-link:hover{
   color: #eaf6f6;
